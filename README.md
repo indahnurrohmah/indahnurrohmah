@@ -1,6 +1,6 @@
 ### Hi there, I'm Indah Nurrohmah 👋
-🐋 Information Engineering student at Gadjah Mada University
-🐡 Fun fact: I love whales
+🐋 Information Engineering student at Gadjah Mada University  
+🐡 Fun fact: I love whales  
 🦭 Feel free to reach me at indahnurrohmah11@gmail.com
 <!--
 **indahnurrohmah/indahnurrohmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
